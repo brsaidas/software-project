@@ -1,5 +1,5 @@
 # software-project
-Some code from software design classes
+Some code from software design classes. Below is the UML diagram of the projects in this repository.
 
 ## Prototipo
 
