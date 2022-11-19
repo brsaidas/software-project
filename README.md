@@ -18,3 +18,7 @@ Some code from software design classes. Below is the UML diagram of the projects
 ## Fábrica Abstrata
 
 <img src="img/fabrica-abstrata.png"/>
+
+## Fábrica Abstrata
+
+<img src="img/trabalho-final.png"/>
