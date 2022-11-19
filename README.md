@@ -21,4 +21,4 @@ Some code from software design classes. Below is the UML diagram of the projects
 
 ## Trabalho Final
 
-<img src="img/trabalho-final.png"/>
+<img src="img/trabalho-final.jpeg"/>
