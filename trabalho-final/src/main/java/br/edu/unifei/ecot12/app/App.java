@@ -111,7 +111,7 @@ public class App {
 		Luta l4 = new Luta();
 		l4.setData("Agora");
 		l4.setLocal("PRG");
-		l4.setMotivo("Aulas acabando muito em dezembro");
+		l4.setMotivo("Aulas acabando no Natal");
 		l4.setSer1(p);
 		l4.setSer2(c4);
 		
