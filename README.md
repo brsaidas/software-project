@@ -19,6 +19,10 @@ Some code from software design classes. Below is the UML diagram of the projects
 
 <img src="img/fabrica-abstrata.png"/>
 
+## Gabarito
+
+<img src="img/gabarito.png"/>
+
 ## Trabalho Final
 
 <img src="img/trabalho-final.jpeg"/>
