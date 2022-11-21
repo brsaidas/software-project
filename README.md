@@ -23,6 +23,18 @@ Some code from software design classes. Below is the UML diagram of the projects
 
 <img src="img/gabarito.png"/>
 
+## Comando
+
+<img src="img/comando.png"/>
+
+## Estrategia
+
+<img src="img/estrategia.png"/>
+
+## Estado
+
+<img src="img/estado.png"/>
+
 ## Trabalho Final
 
 <img src="img/trabalho-final.jpeg"/>
