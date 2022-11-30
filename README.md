@@ -39,6 +39,10 @@ Some code from software design classes. Below is the UML diagram of the projects
 
 <img src="img/interpretador.png"/>
 
+## Decoracao
+
+<img src="img/decoracao.png"/>
+
 ## Visitacao
 
 <img src="img/visitacao-1.png"/>
